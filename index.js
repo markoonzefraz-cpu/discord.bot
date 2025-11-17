@@ -21,7 +21,7 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`🌐 Keep-alive server running on port ${PORT}`));
 
 // === CONFIG - REPLACE THESE VALUES ===
-const TOKEN = 'MTQyOTMyNzUxNzg0NzkxNjcwNQ.GCOvlR.CwniMlgqAQo87hAIMcy7pw-PboWpLmbrRpuSLM';
+const TOKEN = '';
 const CLIENT_ID = '1429327517847916705';
 const GUILD_ID = '1349164263133941821';
 
